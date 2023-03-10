@@ -1,2 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-int a = 19;
+#include<stdio.h>
+int mian()
+{
+	printf("hehe\n");
+	return 0;
+}
