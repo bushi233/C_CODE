@@ -1,0 +1,16 @@
+﻿  test.c
+E:\code\test3_18\test\test\test.c(10,23): warning C4474: printf: 格式字符串中传递的参数太多
+E:\code\test3_18\test\test\test.c(10,23): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\code\test3_18\test\test\test.c(13,23): warning C4474: printf: 格式字符串中传递的参数太多
+E:\code\test3_18\test\test\test.c(13,23): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\code\test3_18\test\test\test.c(16,23): warning C4474: printf: 格式字符串中传递的参数太多
+E:\code\test3_18\test\test\test.c(16,23): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\code\test3_18\test\test\test.c(19,23): warning C4474: printf: 格式字符串中传递的参数太多
+E:\code\test3_18\test\test\test.c(19,23): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\code\test3_18\test\test\test.c(22,23): warning C4474: printf: 格式字符串中传递的参数太多
+E:\code\test3_18\test\test\test.c(22,23): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\code\test3_18\test\test\test.c(25,23): warning C4474: printf: 格式字符串中传递的参数太多
+E:\code\test3_18\test\test\test.c(25,23): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\code\test3_18\test\test\test.c(28,23): warning C4474: printf: 格式字符串中传递的参数太多
+E:\code\test3_18\test\test\test.c(28,23): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  test.vcxproj -> E:\code\test3_18\test\x64\Debug\test.exe
